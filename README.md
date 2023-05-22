@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albritob
 - 👀 I’m interested in full stack desenvolvment 
-- 🌱 I’m currently learning mysql
+- 🌱 I’m currently learning mysql, python, java
 - 💞️ I’m looking to collaborate on desenvolvment area
 - 📫 How to reach me https://www.linkedin.com/in/ant%C3%B4nio-luiz-502051172/
 
